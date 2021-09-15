@@ -14,4 +14,12 @@ This project follows the structure of `fast.AI` [nbdev](https://nbdev.fast.ai/) 
 
 The folders `paper_nbs` and `scratch_nbs` are intended to computational prototypes and their original paper. 
 
-The authors will realease the models/data upon ICSE'22 acceptance. 
+# Testbeds and Training Datasets
+- Raw Training Dataset: [CodeSearchNet](https://www.dropbox.com/s/fyi3fzf2xlslfl1/raw_searchnet.zip?dl=0)
+- Raw Testbeds: [link](https://www.dropbox.com/s/qy9m1fsu1w0trp2/raw_testbeds.zip?dl=0)
+- Pre-processed Testbeds: [covariates](https://www.dropbox.com/s/g76orgo7v0hvh8m/covariate_testbeds.zip?dl=0)
+
+The authors will realease the remaining models/data upon ICSE'22 acceptance. 
+
+# Experiments
+The following [link](https://www.dropbox.com/s/rg95s36vitdai1q/experiments_notebooks.zip?dl=0) contains all the notebooks with the experiments proposed on the paper. 
